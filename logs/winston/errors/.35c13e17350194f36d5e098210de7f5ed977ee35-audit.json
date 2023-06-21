@@ -6,11 +6,6 @@
     "auditLog": "H:\\Level_ 2_web_development\\Mission_3_\\University_management_auth_service\\logs\\winston\\errors\\.35c13e17350194f36d5e098210de7f5ed977ee35-audit.json",
     "files": [
         {
-            "date": 1686056121277,
-            "name": "H:\\Level_ 2_web_development\\Mission_3_\\University_management_auth_service\\logs\\winston\\errors\\phu-2023-06-06-18-error.log",
-            "hash": "8836da7d595e09fb651d7773a2ce1c1ade3f6a631fd8241ee0a0b4f338025f95"
-        },
-        {
             "date": 1686216108157,
             "name": "H:\\Level_ 2_web_development\\Mission_3_\\University_management_auth_service\\logs\\winston\\errors\\phu-2023-08-06-15-error.log",
             "hash": "868d47c187f43f6d3f07298c36d16853619496e279fa8747e0cb48aa59febcb0"
@@ -29,6 +24,56 @@
             "date": 1686945102261,
             "name": "H:\\Level_ 2_web_development\\Mission_3_\\University_management_auth_service\\logs\\winston\\errors\\phu-2023-17-06-01-error.log",
             "hash": "3db72bc387a58672b5c2386798fc74ca62c8a62d5fa79ad581c00772778be058"
+        },
+        {
+            "date": 1687102597689,
+            "name": "H:\\Level_ 2_web_development\\Mission_3_\\University_management_auth_service\\logs\\winston\\errors\\phu-2023-18-06-21-error.log",
+            "hash": "5f88eee8aacc4821ca18d860f6a3687f4c45a427cf72e6e1bfcaed1e44a0c6e5"
+        },
+        {
+            "date": 1687188825564,
+            "name": "H:\\Level_ 2_web_development\\Mission_3_\\University_management_auth_service\\logs\\winston\\errors\\phu-2023-19-06-21-error.log",
+            "hash": "18172251a7d2ae130de2ba22163ea28d3be84a0b95ae57319760eeda4de0deea"
+        },
+        {
+            "date": 1687190456949,
+            "name": "H:\\Level_ 2_web_development\\Mission_3_\\University_management_auth_service\\logs\\winston\\errors\\phu-2023-19-06-22-error.log",
+            "hash": "35430e553d69489a4dc1a97a66e664fb37612c01781597ffd48dbeb0a5f751c7"
+        },
+        {
+            "date": 1687204195876,
+            "name": "H:\\Level_ 2_web_development\\Mission_3_\\University_management_auth_service\\logs\\winston\\errors\\phu-2023-20-06-01-error.log",
+            "hash": "2dc12207c84204ad9294abcf94ea38651d8ec07ae1d9cf1538d16c7238f9311b"
+        },
+        {
+            "date": 1687205167188,
+            "name": "H:\\Level_ 2_web_development\\Mission_3_\\University_management_auth_service\\logs\\winston\\errors\\phu-2023-20-06-02-error.log",
+            "hash": "c8c1ac122561f7e8d7bb32ce56f1eedd14d9be96f615621ae22cb319cc923b7b"
+        },
+        {
+            "date": 1687268767719,
+            "name": "H:\\Level_ 2_web_development\\Mission_3_\\University_management_auth_service\\logs\\winston\\errors\\phu-2023-20-06-19-error.log",
+            "hash": "3222be81258210452182a165227a05587940b3e074f143e8c520e1d6cafb2db7"
+        },
+        {
+            "date": 1687269980960,
+            "name": "H:\\Level_ 2_web_development\\Mission_3_\\University_management_auth_service\\logs\\winston\\errors\\phu-2023-20-06-20-error.log",
+            "hash": "1a7ff1a10f9445fa2aae2cc2833400b159b36a43c7d6b8b4fdfbe74e1dd10162"
+        },
+        {
+            "date": 1687273282788,
+            "name": "H:\\Level_ 2_web_development\\Mission_3_\\University_management_auth_service\\logs\\winston\\errors\\phu-2023-20-06-21-error.log",
+            "hash": "e8ec96101a3db0a9fb0ee70f8fab387d6b7c6a6b37e783fc19d0e15bc28b4f70"
+        },
+        {
+            "date": 1687339810917,
+            "name": "H:\\Level_ 2_web_development\\Mission_3_\\University_management_auth_service\\logs\\winston\\errors\\phu-2023-21-06-15-error.log",
+            "hash": "1d6d109227e16d4698afe1c8ec5d722f118bf47ca5f6fe91512ed77341583dff"
+        },
+        {
+            "date": 1687341843597,
+            "name": "H:\\Level_ 2_web_development\\Mission_3_\\University_management_auth_service\\logs\\winston\\errors\\phu-2023-21-06-16-error.log",
+            "hash": "c549e6d9c87c384ce6db7c26764423a79ba131b3ca580619d0b2c7debb0d740b"
         }
     ],
     "hashType": "sha256"
